@@ -1,0 +1,1 @@
+Hello World! I'm still brainstorming for ideas for building my site, but I am leaning towards either building a personal website about myself, my experience of buying my first ever Warby Parker glasses, or a build a mock-up landing page for Benjamin Moore paint company based on one of their ad campaigns. Will certainly update more in this README doc so stay tuned!
